@@ -591,3 +591,262 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 
+#SPORTS#
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 1 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 2 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=46c49e9e01749e13c7fd87300924bfa5dad66d11
+#EXTINF:-1 group-title="SPORTS",SKY SPORT F1 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
+#EXTINF:-1 group-title="SPORTS",PREMIER SPORT CZ HD
+http://127.0.0.1:6878/ace/getstream?id=b0b2db107f292437139d735b469df71c8a553f46
+
+#EXTINF:-1 group-title="SPORTS",SPORT TV1 FHD
+http://127.0.0.1:6878/ace/getstream?id=d027b34465b1ed60b45819ac6bf12070dab3d1ee
+#EXTINF:-1 group-title="SPORTS",SPORT TV2 FHD
+http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
+#EXTINF:-1 group-title="SPORTS",SPORT TV3 FHD
+http://127.0.0.1:6878/ace/getstream?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+#EXTINF:-1 group-title="SPORTS",SPORT TV4 FHD
+http://127.0.0.1:6878/ace/getstream?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
+
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1 HU FHD
+http://127.0.0.1:6878/ace/getstream?id=467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2 HU FHD
+http://127.0.0.1:6878/ace/getstream?id=96301308f598c999279e27d035cfd78d4ec46546
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 3 HU SD
+http://127.0.0.1:6878/ace/getstream?id=5ad076155333ea8f362bf66300333b64a3151e26
+
+#EXTINF:-1 group-title="SPORTS",SETANTA SPORT UA FHD
+http://127.0.0.1:6878/ace/getstream?id=4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
+#EXTINF:-1 group-title="SPORTS",SETANTA SPORT+ UA FHD
+http://127.0.0.1:6878/ace/getstream?id=eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
+#EXTINF:-1 group-title="SPORTS",ZIGGO SPORT SELECT FHD
+http://127.0.0.1:6878/ace/getstream?id=38d77beafa2a8763686f76576480e9f73d9ae3e6
+#EXTINF:-1 group-title="SPORTS",CANAL+ SPORT FHD
+http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+#EXTINF:-1 group-title="SPORTS",PREMIER SPORT CZ HD
+http://127.0.0.1:6878/ace/getstream?id=b0b2db107f292437139d735b469df71c8a553f46
+
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=572880fd38805efc2d5c9fa72a72669a00583808
+
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=d7f042a816012aaa4898b1f56107a2c13c7df323
+
+
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 4 FHD
+http://127.0.0.1:6878/ace/getstream?id=0e86afa4f4aea82b00e527967eec9dc938ded8c1
+
+#EXTINF:-1 group-title="SPORTS",MOVISTAR LALIGA FHD
+http://127.0.0.1:6878/ace/getstream?id=9007568a18c3a3c89fb9e745206a60554c114917
+#EXTINF:-1 group-title="SPORTS",MOVISTAR LIGA DE CAMPEONES FHD
+http://127.0.0.1:6878/ace/getstream?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+#EXTINF:-1 group-title="SPORTS",MOVISTAR DEPORTES FHD
+http://127.0.0.1:6878/ace/getstream?id=57fb15b9403695ef6eaa79699a7ea5c374e4fa2f
+#EXTINF:-1 group-title="SPORTS",MOVISTAR GOLF FHD
+http://127.0.0.1:6878/ace/getstream?id=b93ec5d6adee1c59192ae9811b0d5df66adc29af
+#EXTINF:-1 group-title="SPORTS",MOVISTAR TOROS FHD
+http://127.0.0.1:6878/ace/getstream?id=a6b3bd14c848f9b9573cbc52e08dca6b76059349
+#EXTINF:-1 group-title="SPORTS",MOVISTAR FORMULA 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=00e0f5e4990c1177512fed77430a9c3f945b4893
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 IL HD
+http://127.0.0.1:6878/ace/getstream?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
+
+#EXTINF:-1 group-title="SPORTS",SPORT 2 IL HD
+http://127.0.0.1:6878/ace/getstream?id=d342fee30beccf53f2563f5b81e4e909e57202bf
+
+#EXTINF:-1 group-title="SPORTS",SPORT 3 IL HD
+http://127.0.0.1:6878/ace/getstream?id=9ba8774882f10a28c986644f0aaff997e3fb3ca9
+#EXTINF:-1 group-title="SPORTS",SPORT 4 IL HD
+http://127.0.0.1:6878/ace/getstream?id=5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
+
+#EXTINF:-1 group-title="SPORTS",SPORT 5 (5 STARS) IL HD
+http://127.0.0.1:6878/ace/getstream?id=347750a65beffd8f53245fe784fd399abf09b124
+
+#EXTINF:-1 group-title="SPORTS",SPORT 5+ (5 LIVE) IL HD
+http://127.0.0.1:6878/ace/getstream?id=f25827c9d236a4ec19cd49394e495928dd7813da
+
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1 RO FHD
+http://127.0.0.1:6878/ace/getstream?id=c575315526a0b6a1a75bd6ebe548b62b7dc50a82
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2 RO FHD
+http://127.0.0.1:6878/ace/getstream?id=3b3d22e60aa72aff95a92e7667878f63ba898a50
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 4 RO SD
+http://127.0.0.1:6878/ace/getstream?id=ede354f7f0ca2009484a0795180031d24ffeec9d
+
+#EXTINF:-1 group-title="SPORTS",TV3 SPORT FHD
+http://127.0.0.1:6878/ace/getstream?id=024526a5659202ec13b077f21ea8e6044d6d7df2
+
+#EXTINF:-1 group-title="SPORTS",TV3 SPORT 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=8172d547d41ff1b8b30ec3f39601ca96269c6d43
+
+#EXTINF:-1 group-title="SPORTS",NOVA SPORT 1 CZ FHD
+http://127.0.0.1:6878/ace/getstream?id=d8c921e06e63427c97f423a4cdd63af05cc04f6e
+#EXTINF:-1 group-title="SPORTS",NOVA SPORT 2 CZ FHD
+http://127.0.0.1:6878/ace/getstream?id=ecb8eaa3013119be6707cc16540ad455db33a512
+
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 1 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 2 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=46c49e9e01749e13c7fd87300924bfa5dad66d11
+#EXTINF:-1 group-title="SPORTS",SKY SPORT F1 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 CZ FHD
+http://127.0.0.1:6878/ace/getstream?id=80c56f650421f104181a46a5d318584f3d9b64eb
+
+#EXTINF:-1 group-title="SPORTS",SPORT 2 CZ FHD
+http://127.0.0.1:6878/ace/getstream?id=b4a583fac6636b17823c327252dd7640a8d64f3d
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 HU FHD
+http://127.0.0.1:6878/ace/getstream?id=fd32c653e3e913a1ee8d654dafbfab9d86a464eb
+#EXTINF:-1 group-title="SPORTS",ARENA SPORT 1 SK FHD
+http://127.0.0.1:6878/ace/getstream?id=e4c0aff2c98cc3bd09f678325ae09d8d560f2705
+
+#EXTINF:-1 group-title="SPORTS",NBA TV FHD
+http://127.0.0.1:6878/ace/getstream?id=eb24f16f4c86976dfa96b928789bd2db4dcf15b7
+
+#EXTINF:-1 group-title="SPORTS",Матч! Футбол 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+
+
+#EXTINF:-1 group-title="SPORTS",Матч! Футбол 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
+
+
+
+
+#EXTINF:-1 group-title="SPORTS",Матч! Футбол 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
+
+
+
+#EXTINF:-1 group-title="SPORTS",Матч ТВ FHD
+http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
+
+
+
+
+
+
+
+
+
+
+ 
+#EXTINF:-1,SPORT TV1 FHD
+http://127.0.0.1:6878/ace/getstream?id=d027b34465b1ed60b45819ac6bf12070dab3d1ee
+#EXTINF:-1,SPORT TV2 FHD
+http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
+#EXTINF:-1,SPORT TV3 FHD
+http://127.0.0.1:6878/ace/getstream?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+#EXTINF:-1,SPORT TV4 FHD
+http://127.0.0.1:6878/ace/getstream?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
+
+#EXTINF:-1,DIGI SPORT 1 HU FHD
+http://127.0.0.1:6878/ace/getstream?id=467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1,DIGI SPORT 2 HU FHD
+http://127.0.0.1:6878/ace/getstream?id=96301308f598c999279e27d035cfd78d4ec46546
+#EXTINF:-1,DIGI SPORT 3 HU SD
+http://127.0.0.1:6878/ace/getstream?id=5ad076155333ea8f362bf66300333b64a3151e26
+
+#EXTINF:-1,SETANTA SPORT UA FHD
+http://127.0.0.1:6878/ace/getstream?id=4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
+#EXTINF:-1,SETANTA SPORT+ UA FHD
+http://127.0.0.1:6878/ace/getstream?id=eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
+#EXTINF:-1,ZIGGO SPORT SELECT FHD
+http://127.0.0.1:6878/ace/getstream?id=38d77beafa2a8763686f76576480e9f73d9ae3e6
+#EXTINF:-1,CANAL+ SPORT FHD
+http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=572880fd38805efc2d5c9fa72a72669a00583808
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=d7f042a816012aaa4898b1f56107a2c13c7df323
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://127.0.0.1:6878/ace/getstream?id=0e86afa4f4aea82b00e527967eec9dc938ded8c1
+
+#EXTINF:-1,MOVISTAR LALIGA FHD
+http://127.0.0.1:6878/ace/getstream?id=9007568a18c3a3c89fb9e745206a60554c114917
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FHD
+http://127.0.0.1:6878/ace/getstream?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+#EXTINF:-1,MOVISTAR DEPORTES FHD
+http://127.0.0.1:6878/ace/getstream?id=57fb15b9403695ef6eaa79699a7ea5c374e4fa2f
+#EXTINF:-1,MOVISTAR GOLF FHD
+http://127.0.0.1:6878/ace/getstream?id=b93ec5d6adee1c59192ae9811b0d5df66adc29af
+#EXTINF:-1,MOVISTAR TOROS FHD
+http://127.0.0.1:6878/ace/getstream?id=a6b3bd14c848f9b9573cbc52e08dca6b76059349
+#EXTINF:-1,MOVISTAR FORMULA 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=00e0f5e4990c1177512fed77430a9c3f945b4893
+
+#EXTINF:-1,SPORT 1 IL HD
+http://127.0.0.1:6878/ace/getstream?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
+#EXTINF:-1,SPORT 2 IL HD
+http://127.0.0.1:6878/ace/getstream?id=d342fee30beccf53f2563f5b81e4e909e57202bf
+#EXTINF:-1,SPORT 3 IL HD
+http://127.0.0.1:6878/ace/getstream?id=9ba8774882f10a28c986644f0aaff997e3fb3ca9
+#EXTINF:-1,SPORT 4 IL HD
+http://127.0.0.1:6878/ace/getstream?id=5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
+#EXTINF:-1,SPORT 5 (5 STARS) IL HD
+http://127.0.0.1:6878/ace/getstream?id=347750a65beffd8f53245fe784fd399abf09b124
+#EXTINF:-1,SPORT 5+ (5 LIVE) IL HD
+http://127.0.0.1:6878/ace/getstream?id=f25827c9d236a4ec19cd49394e495928dd7813da
+
+#EXTINF:-1,SKY SPORT 1 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1,SKY SPORT 2 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=46c49e9e01749e13c7fd87300924bfa5dad66d11
+#EXTINF:-1,SKY SPORT F1 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
+
+#EXTINF:-1,DIGI SPORT 1 RO FHD
+http://127.0.0.1:6878/ace/getstream?id=c575315526a0b6a1a75bd6ebe548b62b7dc50a82
+#EXTINF:-1,DIGI SPORT 2 RO FHD
+http://127.0.0.1:6878/ace/getstream?id=3b3d22e60aa72aff95a92e7667878f63ba898a50
+#EXTINF:-1,DIGI SPORT 4 RO SD
+http://127.0.0.1:6878/ace/getstream?id=ede354f7f0ca2009484a0795180031d24ffeec9d
+
+#EXTINF:-1,TV3 SPORT FHD
+http://127.0.0.1:6878/ace/getstream?id=024526a5659202ec13b077f21ea8e6044d6d7df2
+#EXTINF:-1,TV3 SPORT 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=8172d547d41ff1b8b30ec3f39601ca96269c6d43
+#EXTINF:-1,PREMIER SPORT CZ HD
+http://127.0.0.1:6878/ace/getstream?id=b0b2db107f292437139d735b469df71c8a553f46
+
+#EXTINF:-1,NOVA SPORT 1 CZ FHD
+http://127.0.0.1:6878/ace/getstream?id=d8c921e06e63427c97f423a4cdd63af05cc04f6e
+#EXTINF:-1,NOVA SPORT 2 CZ FHD
+http://127.0.0.1:6878/ace/getstream?id=ecb8eaa3013119be6707cc16540ad455db33a512
+
+#EXTINF:-1,SPORT 1 CZ FHD
+http://127.0.0.1:6878/ace/getstream?id=80c56f650421f104181a46a5d318584f3d9b64eb
+#EXTINF:-1,SPORT 2 CZ FHD
+http://127.0.0.1:6878/ace/getstream?id=b4a583fac6636b17823c327252dd7640a8d64f3d
+
+#EXTINF:-1,SPORT 1 HU FHD
+http://127.0.0.1:6878/ace/getstream?id=fd32c653e3e913a1ee8d654dafbfab9d86a464eb
+#EXTINF:-1,ARENA SPORT 1 SK FHD
+http://127.0.0.1:6878/ace/getstream?id=e4c0aff2c98cc3bd09f678325ae09d8d560f2705
+
+#EXTINF:-1,NBA TV FHD
+http://127.0.0.1:6878/ace/getstream?id=eb24f16f4c86976dfa96b928789bd2db4dcf15b7
+
+#EXTINF:-1,Матч! Футбол 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+#EXTINF:-1,Матч! Футбол 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
+#EXTINF:-1,Матч! Футбол 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
+#EXTINF:-1,Матч ТВ FHD
+http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
+#EXTINF:-1,Match Premier FHD
+http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
+
+
+
