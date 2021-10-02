@@ -850,8 +850,8 @@ http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
 
 
 #EXTM3U
-#EXTINF:-1 group-title="⚽|CaKhiaTV_Link load đúng giờ" tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png",♻Trực tiếp bóng đá⬇♻ 
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+
 #EXTINF:-1 group-title="⚽|CaKhiaTV_Link load đúng giờ" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài  V-Varen Nagasaki vs Kyoto Sanga FC
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep
 #EXTINF:-1 group-title="⚽|CaKhiaTV_Link load đúng giờ" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài  Gangwon FC vs Jeonbuk FC
