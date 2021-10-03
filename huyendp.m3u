@@ -1001,18 +1001,3 @@ http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
 #EXTINF:-1 group-title="ACESTREAM-4K"  ,Kênh 4K (tiếng Trung Quốc)
 http://127.0.0.1:6878/ace/getstream?id=f6ae5119f9281cdc920d49248f46fc5431f70673
 
-
-
-#EXTINF:-1 tvg-id=”” tvg-name=”TIENG RUOI” tvg-logo=http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png group-title=”⏯️ ACE - TIENG RUOI”, TIENGRUOI LINK1
-http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
-#EXTINF:-1 tvg-id=”” tvg-name=”TIENG RUOI” tvg-logo=http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png group-title=”⏯️ ACE - TIENG RUOI”, TIENGRUOI LINK2
-http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
-#EXTINF:-1 tvg-id=”” tvg-name=”TIENG RUOI” tvg-logo=http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png group-title=”⏯️ ACE - TIENG RUOI”, TIENGRUOI LINK3
-http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
-#EXTINF:-1 tvg-id=”” tvg-name=”TIENG RUOI” tvg-logo=http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png group-title=”⏯️ ACE - TIENG RUOI”, TIENGRUOI LINK4
-http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
-#EXTINF:-1 tvg-id=”” tvg-name=”TIENG RUOI” tvg-logo=http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png group-title=”⏯️ ACE - TIENG RUOI”, TIENGRUOI LINK5
-http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
-
-
-
