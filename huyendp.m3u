@@ -1,13 +1,6 @@
 #EXTM3U HUYENDP
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------#
-#EXTM3U
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VIETNAM - CHINA" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6 HD (SERVER CHÍNH)
-http://34.150.29.152/VTV6/mpegts
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VIETNAM - CHINA" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6 HD (SERVER 2)
-http://34.87.8.82/VTV6/mpegts
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VIETNAM - CHINA" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6 HD (SERVER 2 NO DELAY)
-http://34.87.8.82:9981/stream/channelid/338151465?profile=pass
 
 # NHÓM KÊNH VTV #
 
