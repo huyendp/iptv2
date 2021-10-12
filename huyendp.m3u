@@ -4,6 +4,11 @@
 
 # NHÓM KÊNH VTV #
 
+
+#EXTINF:-1 group-title="My Channel",CVace Channel
+http://127.0.0.1:6878/ace/getstream?id=c33c9e6568f079c5c5f4a377f84aca3b4a265530
+
+
 #EXTM3U
 #EXTINF:0 tvg-id="vtv1hd" group-title="🇻🇳| VTV ¹⁰⁸⁰" tvg-logo=https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
