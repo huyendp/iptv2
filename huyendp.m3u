@@ -429,6 +429,25 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
+
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png" group-title="Thể Thao & Giải Trí",K+ SPORT 1 HD
+https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png" group-title="Thể Thao & Giải Trí",K+ SPORT 2 HD
+https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="Thể Thao & Giải Trí" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
+http://cdnspt.vthanh.xyz/kcine/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="Thể Thao & Giải Trí" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
+http://cdnspt.vthanh.xyz/klife/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Thể Thao & Giải Trí" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
+http://cdnspt.vthanh.xyz/ksport1/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Thể Thao & Giải Trí" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
+http://cdnspt.vthanh.xyz/ksport2/mpegts
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------#
+
 #ƙêռɦ địɑ ρɦươռɠ #
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="ƙêռɦ địɑ ρɦươռɠ" tvg-logo="https://vthanh.xyz/ic/104.png", THVL1 HD
