@@ -4,9 +4,9 @@
 #EXTM3U HUYENDP url-tvg="http://onetv.click/schedule/epg.xml"
 
 
-#EXTINF:-1  tvg-logo="https://www.vff.org.vn/wp-content/uploads/2022/03/Dubai-cup.jpg" ,Dubai cup1(tv360) group-title="DUBAICUP"
+#EXTINF:-1  tvg-logo="https://www.vff.org.vn/wp-content/uploads/2022/03/Dubai-cup.jpg" ,Dubai cup1(tv360)
 http://live.tv360.vn/manifest/u23-dubaicup1/playlist_720p.m3u8
-#EXTINF:-1  tvg-logo="https://www.vff.org.vn/wp-content/uploads/2022/03/Dubai-cup.jpg",Dubai cup2(tv360) group-title="DUBAICUP"
+#EXTINF:-1  tvg-logo="https://www.vff.org.vn/wp-content/uploads/2022/03/Dubai-cup.jpg",Dubai cup2(tv360)
 http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 # VTV #
