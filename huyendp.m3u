@@ -3,6 +3,43 @@
 
 #EXTM3U HUYENDP url-tvg="http://onetv.click/schedule/epg.xml"
 
+
+# k+ #
+#EXTINF:-1 tvg-id="kcinehd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+http://103.170.123.169:9981/stream/channelid/1554849879?profile=pass
+#EXTINF:-1 tvg-id="klifehd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+http://103.170.123.169:9981/stream/channelid/460683545?profile=pass
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+http://103.170.123.169:9981/stream/channelid/429457812?profile=pass
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+http://103.170.123.169:9981/stream/channelid/1238730389?profile=pass
+#EXTINF:-1 tvg-id="kcinehd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD VieON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/99fe70c3a2481b5b2514fbde5987a307/1652004128976/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd
+#EXTINF:-1 tvg-id="klifehd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD VieON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/a8b1d4df8225aa53b1c8a2d316bc782e/1652004129039/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021_web.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD VieON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hni-fpt-001-livecdn-vthn2-vnd.vieon.vn/9d27f15951c89581952d48c5928a477c/1652004129103/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_web.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD VieON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/26a43999a8a4334921f909585be12ed5/1652004129179/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="🄺+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hni-fpt-001-livecdn-vthn2-vnd.vieon.vn/0a1d4700608579c2ad780d3127bcd3ee/1652004129252/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
+
+
 # VTV #
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://i.ibb.co/M9v4ybW/VTV1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
