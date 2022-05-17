@@ -4,20 +4,83 @@
 #EXTM3U HUYENDP url-tvg="http://onetv.click/schedule/epg.xml"
 
 #🏆| SeaGames 31#
-#EXTINF:0 tvg-id="vtv5hd" group-title="🏆| SeaGames 31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 HD
-https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="vtv6hd" group-title="🏆| SeaGames 31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/vd1LBK7/onfootbal-BEARTV.png" group-title="🏆| SeaGames 31" ,ON FOOTBALL
-#EXTVLCOPT:http-user-agent="BearTV"
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtc3hd" group-title="🏆| SeaGames 31" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/340?cb=20201207142820&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| SeaGames 31" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 HD
+http://103.143.143.197/VTV5/mpegts
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| SeaGames 31" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 HD
+http://103.143.143.197/VTV6/mpegts
+#EXTINF:-1 tvg-id="htv1" group-title="🏆| SeaGames 31" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
+http://103.143.143.197/HTV1/mpegts
+#EXTINF:-1 tvg-id="htv4" group-title="🏆| SeaGames 31" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV Key
+http://103.143.143.197/HTV_KEY/mpegts
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| SeaGames 31" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao
+http://103.143.143.197/HTV_THE_THAO/mpegts
+#EXTINF:-1 tvg-id="bacgiang" group-title="🏆| SeaGames 31" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png", BGTV HD - TH Bắc Giang (TV)
+http://vthanhvietnix.duckdns.org/BGTV/mpegts
+#EXTINF:-1 tvg-id="bacgiang" group-title="🏆| SeaGames 31" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png", BGTV HD - TH Bắc Giang (OTT)
+http://103.90.220.236/mdtvlive/group1bgtvonline-transmux.m3u8
+#EXTINF:-1 tvg-id="quangninh3" group-title="🏆| SeaGames 31" tvg-logo="https://cdn.hqth.me/logo/thumbs/169.png", QTV3 HD - TH Quảng Ninh
+http://103.143.143.197/QTV3/mpegts
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 3
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 4
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 5
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 6
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 7
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 9
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://yt3.ggpht.com/BH8nrIwY2YEKVNNZ9TuNuW9n7DitQFYBgnHCLhLpKXJgQLttp4XJAa3lwj14fSBt7sqTcg-vWA=s900-c-k-c0x00ffffff-no-rj", F Sport 10
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://web-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
 
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://tuyendung.fpt.com.vn/public/img/logo-footer.png", FPT Live 1
+http://vthanhvietnix.duckdns.org/FPTLIVE1/mpegts
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://tuyendung.fpt.com.vn/public/img/logo-footer.png", FPT Live 2
+http://vthanhvietnix.duckdns.org/FPTLIVE2/mpegts
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://tuyendung.fpt.com.vn/public/img/logo-footer.png", FPT Live 3
+http://vthanhvietnix.duckdns.org/FPTLIVE3/mpegts
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://tuyendung.fpt.com.vn/public/img/logo-footer.png", FPT Live 4
+http://vthanhvietnix.duckdns.org/FPTLIVE4/mpegts
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://tuyendung.fpt.com.vn/public/img/logo-footer.png", FPT Live 5
+http://vthanhvietnix.duckdns.org/FPTLIVE5/mpegts
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://tuyendung.fpt.com.vn/public/img/logo-footer.png", FPT Live 6
+http://vthanhvietnix.duckdns.org/FPTLIVE6/mpegts
+#EXTINF:-1 group-title="🏆| SeaGames 31" tvg-logo="https://tuyendung.fpt.com.vn/public/img/logo-footer.png", FPT Live 7
+http://vthanhvietnix.duckdns.org/FPTLIVE7/mpegts
+
 
 
 # k+ #
 
+#EXTINF:-1 group-title="🍭| K+" tvg-logo="", MyK+ yêu cầu update list thường xuyên để load key mới!
+#https://vthanh.net
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+http://vthanhvnpt.duckdns.org/KCINE_vthanh/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+http://vthanhvnpt.duckdns.org/KLIFE_vthanh/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
 
 
 # VTV #
