@@ -1,6 +1,7 @@
 #-*-- 🏆|AFC U23 ASIAN CUP -*--#
 
 #EXTINF:-1 group-title="🏆|AFC U23 ASIAN CUP" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🏆|AFC U23 ASIAN CUP" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 2
