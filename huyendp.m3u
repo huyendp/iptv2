@@ -1,3 +1,31 @@
+#EXTINF:-1 group-title="FootBall EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 01
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="FootBall EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 02
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="FootBall EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 03
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="FootBall EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 04
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 01
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 02
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 03
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 04
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 05
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
 
 
 # VTV #
