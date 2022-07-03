@@ -1,24 +1,27 @@
-#FPT#
+# nguồn sưu tầm từ các list nổi tiếng #
 
-#EXTINF:-1 group-title="FPT EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 01
+
+#☞╯🅛🅘🅥🅔╰☜#
+#EXTINF:-1 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://cdn.sforum.vn/sforum/wp-content/uploads/2021/09/maxresdefault-35.jpg", TV360 Live U19
+https://api.vthanhtivii.xyz/v1/getlink/tv360/2458/3
+#EXTINF:-1 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 01
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="FPT EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 02
+#EXTINF:-1 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 02
 https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="FPT EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 03
+#EXTINF:-1 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 03
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="FPT EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 04
+#EXTINF:-1 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 04
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="FPT EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 01
+#EXTINF:0 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 01
 https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="FPT EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 02
+#EXTINF:0 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 02
 https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="FPT EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 03
+#EXTINF:0 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 03
 https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="FPT EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 04
+#EXTINF:0 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 04
 https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="FPT EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 05
+#EXTINF:0 group-title="☞╯🅛🅘🅥🅔╰☜" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 05
 https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
-
 
 # VTV #
 
