@@ -38,8 +38,9 @@ https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m
 
 # VTV #
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://i.ibb.co/M9v4ybW/VTV1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
-https://bdg-vtt-live-004-livecdn-vthn-vnd.vieon.vn/b0327774372afab894a97d56370326f5/1660983571641/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
+#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://i.ibb.co/M9v4ybW/VTV1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",kkkk
+https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/5b3c18c900e31f31c793d7d12f8340c7/1660984894956/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_web.smil/manifest.mpd?token=YzkyMDUwYTQtZWQ0ZC0xMjc4LTlmM2QtNzUwYWFhZTc1N2RlfHdlYnwxMjlmYTcwZDYzMDJiYjM1NDgyNjkxYWQ3Nzk0OWFmOHwxZTVlOTQ4MC0xM2QwLTRhM2MtOTcwYi03ODI4ODAwM2Q3Mjh8bGl2ZXR2fDdDQ0E0fDRmZTI3NWM2Nzc0YWJjZGU1NGYxNjQwNDI5MjlkNGQw
+
 
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://i.ibb.co/M9v4ybW/VTV1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
